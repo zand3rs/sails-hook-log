@@ -1,0 +1,24 @@
+{
+  "name": "sails-hook-log",
+  "version": "0.0.1",
+  "description": "WIP: Sails extension for generating controller level logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zand3rs/sails-hook-log.git"
+  },
+  "keywords": [
+    "sails",
+    "hook",
+    "log"
+  ],
+  "author": "Alexander Magtipon",
+  "homepage": "https://github.com/zand3rs/sails-hook-log",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zand3rs/sails-hook-log/issues"
+  }
+}
